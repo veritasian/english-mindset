@@ -1,0 +1,23 @@
+name: Notify English-opera to rebuild docs
+
+# Whenever content in this repo (english-mindset) changes on main, tell the
+# English-opera site to pull the latest markdown and rebuild its handbook.
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger English-opera docs build
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.DOCS_SYNC_TOKEN }}
+          script: |
+            await github.rest.repos.createDispatchEvent({
+              owner: "veritasian",
+              repo: "English-opera",
+              event_type: "docs-update"
+            });
+            console.log("Dispatched docs-update to English-opera");
