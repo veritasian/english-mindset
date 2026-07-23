@@ -177,8 +177,8 @@ The Star is alone on stage. There is no one else. The Star simply **exists** or 
 - **V:** Rises / Sleeps 
 - **Why it matters:** This is the simplest scene. The verb describes an **action** (runs, jumps, rises) or a **state of being** (is, seems, sleeps).
 - **Common Mistake:** Non-native speakers often try to add an object here.
-    *   ❌ *The sun rises the sky.* (Wrong! The sun doesn't "rise" the sky; it just rises.)
-    *   ✅ *The sun rises.*
+    *    *The sun rises the sky.* (Wrong! The sun doesn't "rise" the sky; it just rises.)
+    *    *The sun rises.*
 
 ---
 
@@ -367,7 +367,7 @@ Noun Clauses usually start with these "Magic Words":
 
 > **The Deletion Test:**
 > *   *Original:* **[What she said]** surprised everyone.
-> *   *Delete the clause:* "Surprised everyone." ❌
+> *   *Delete the clause:* "Surprised everyone." 
 > *   *Result:* **Broken!** Who surprised everyone? The sentence has no Subject.
 > - **Conclusion:** Noun Clauses are **Essential for Meaning**. They are the Main Actor.
 
@@ -384,14 +384,14 @@ An **Adjective Clause** is like a **Costume** or **Makeup**. It hangs on the Nou
 
 There are **Two Types** of Costumes:
 
-1.  **🔴 Restrictive (Essential):** The costume is **mandatory**. Without it, we don't know *which* character you mean.
+1.  ** Restrictive (Essential):** The costume is **mandatory**. Without it, we don't know *which* character you mean.
     *   *Example:* "The player **[who scores the winning goal]** will get the trophy."
-    *   *Delete it:* "The player will get the trophy." ❌ (Which player? Any player? The meaning is lost.)
+    *   *Delete it:* "The player will get the trophy."  (Which player? Any player? The meaning is lost.)
     *   *Verdict:* **Cannot Delete.**
 
-2.  **🟢 Non-Restrictive (Optional):** The costume is just **extra flair**. We already know who the character is.
+2.  ** Non-Restrictive (Optional):** The costume is just **extra flair**. We already know who the character is.
     *   *Example:* "My sister, **[who lives in Chicago]**, is visiting."
-    *   *Delete it:* "My sister is visiting." ✅ (We still know who "My sister" is. The detail about Chicago is just extra info.)
+    *   *Delete it:* "My sister is visiting."  (We still know who "My sister" is. The detail about Chicago is just extra info.)
     *   *Verdict:* **Can Delete.**
 
 **Spot the Clues** 
@@ -429,7 +429,7 @@ Adverbial Clauses answer questions like: *When? Why? How? If?*
 **The Deletion Test** 
 This is the most powerful test for Adverbial Clauses.
 *   *Full Sentence:* **[Because the traffic was bad]**, we arrived late.
-*   *Delete the clause:* "We arrived late." ✅
+*   *Delete the clause:* "We arrived late." 
 *   *Result:* **Grammar is perfect.** The sentence is still complete.
 *   *What changed?* We lost the **Reason**. The "Why" is gone, but the "What" remains.
  
@@ -441,9 +441,9 @@ When you are analyzing a sentence, ask yourself: **"Is this part of the skeleton
 
 | **Clause Type** | **Role** | **Metaphor** | **Can You Delete It?** | **Logic Check** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Noun Clause** | **Subject / Object** | The **Main Actor** | ❌ **NO** | If you delete it, who is acting? The sentence collapses. |
-| **Adjective Clause** | **Modifier (Noun)** | The **Costume** | ⚠️ **Maybe** | If it defines *which* one, keep it. If it's just extra info, you can drop it. |
-| **Adverbial Clause** | **Modifier (Verb)** | The **Lighting** | ✅ **YES** | The action still happens. You just lose the context (time/reason). |
+| **Noun Clause** | **Subject / Object** | The **Main Actor** |  **NO** | If you delete it, who is acting? The sentence collapses. |
+| **Adjective Clause** | **Modifier (Noun)** | The **Costume** |  **Maybe** | If it defines *which* one, keep it. If it's just extra info, you can drop it. |
+| **Adverbial Clause** | **Modifier (Verb)** | The **Lighting** |  **YES** | The action still happens. You just lose the context (time/reason). |
 
 ---
 
@@ -506,10 +506,10 @@ Think of a complex sentence as a **pyramid**. The top is the **Conclusion** (Gen
 
 | **Part of the Sentence**                     | **Role in Deductive Reasoning**                                    | **Typical Clause Type**                                    | **Can You Delete It?**                                                                          |
 | :------------------------------------------- | :----------------------------------------------------------------- | :--------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
-| **The Conclusion**<br>(The "Big Idea")       | The **final claim** you are proving. This is your **Main Clause**. | **Independent Clause**<br>(Simple Sentence)                | ❌ **NEVER**<br>Without this, there is no argument.                                              |
-| **The General Premise**<br>(The "Why")       | The **broad rule** that makes the conclusion obvious.              | **Noun Clause**<br>or **Adverbial Clause** (Because/Since) | ⚠️ **NO**<br>Logic needs a reason. The argument collapses without it.                           |
-| **Specific Costumes**<br>("Attributive")     | **Concrete details** that prove the rule applies here.             | **Adjective Clause**<br>(Who/Which/That)                   | ⚠️ **MAYBE**<br>If it defines *which* one, keep it. If it's just extra detail, you can drop it. |
-| <br>**Background/Lighting**<br>("Adverbial") | **Decorative** info. Sets the scene but doesn't change the logic.  | **Non-Restrictive Clauses**<br>(Commas + Which/When)       | ✅ **YES**<br>The logic holds even if you remove the "flavor."                                   |
+| **The Conclusion**<br>(The "Big Idea")       | The **final claim** you are proving. This is your **Main Clause**. | **Independent Clause**<br>(Simple Sentence)                |  **NEVER**<br>Without this, there is no argument.                                              |
+| **The General Premise**<br>(The "Why")       | The **broad rule** that makes the conclusion obvious.              | **Noun Clause**<br>or **Adverbial Clause** (Because/Since) |  **NO**<br>Logic needs a reason. The argument collapses without it.                           |
+| **Specific Costumes**<br>("Attributive")     | **Concrete details** that prove the rule applies here.             | **Adjective Clause**<br>(Who/Which/That)                   |  **MAYBE**<br>If it defines *which* one, keep it. If it's just extra detail, you can drop it. |
+| <br>**Background/Lighting**<br>("Adverbial") | **Decorative** info. Sets the scene but doesn't change the logic.  | **Non-Restrictive Clauses**<br>(Commas + Which/When)       |  **YES**<br>The logic holds even if you remove the "flavor."                                   |
 
 
 ---
@@ -564,7 +564,7 @@ Now, let's delete the **Costumes and Background** (Step 3-4).
 - **Costumes:** Gone.
 - **Background:** Gone.
 
-> **💡 Key Takeaway:**
+> ** Key Takeaway:**
 > In **LogicOpera**, we write the **Core Logic** first (Steps 1-3). The **Background** (Step 4) is optional decoration. If you are short on time or space, you can cut the background, and your argument remains strong.
 
 ---
@@ -657,7 +657,7 @@ In this system, verb tenses aren't just about time. They are a way to 'niche dow
 
 We reduce the chaos into a clean **2 × 3 Matrix** (The **Logical Six-Tense Cube**). This is the foundation of all English logic.
 
-> **💡 Director's Insight:**
+> ** Director's Insight:**
 > * **Tense** is not just about "When."
 > * It is about the **State of the Event**.
 > * Is it a **Fact** (Open/General)?
@@ -686,7 +686,7 @@ Forget the "12 tenses" for a moment. There are only **2 States of Being** and **
 | **General**<br>*(Fact/Habit)* | **I spoke.**<br>*(Simple Past)* | **I speak.**<br>*(Simple Present)* | **I will speak.**<br>*(Simple Future)* |
 | **Perfect**<br>*(Result/Closed)* | **I had spoken.**<br>*(Past Perfect)* | **I have spoken.**<br>*(Present Perfect)* | **I will have spoken.**<br>*(Future Perfect)* |
 
-> **🚀 The Insight:**
+> ** The Insight:**
 > This grid covers the **core logic** of 80% of English sentences. If you master these 6 boxes, you understand the *logic* of time.
 > * **General** = The Action exists.
 > * **Perfect** = The Action is *done* and the result exists.
@@ -702,7 +702,7 @@ In **LogicOpera**, these are **not** just verb endings. They are **Adjectives lo
 | **-ing** | **The "Active" Adjective**   | **"In-Progress"**<br>(Doing it right now) | Adds **Progressive** aspect.<br>*I am **running**.* (I am in the state of running).       |
 | **-ed**  | **The "Finished" Adjective** | **"Done"**<br>(Completed/Passive)         | Adds **Perfect** aspect.<br>*I have **finished**.* (I am in the state of being finished). |
 
-> **💡 The "State" Logic:**
+> ** The "State" Logic:**
 > * **I am running** = I exist in the **"Running State"**.
 > * **I am bored** = I exist in the **"Bored State"**.
 > * The verb "am" is just the **Main Role** (Subject + Verb), and **-ing/-ed** is the **Costume** (Adjective) describing their current condition.
@@ -823,7 +823,7 @@ In traditional grammar, teachers tell you: *"Use Active Voice for clarity, Passi
 But in **LogicOpera**, we go deeper. We see **Voice** not just as a grammatical rule, but as a **Strategic Choice of Responsibility**.
 
 
-> **💡 Director's Insight:**
+> ** Director's Insight:**
 > * **Active Voice** = **The Director Speaks.** "I did this. I am responsible." (Focus on the **Main Role**).
 > * **Passive Voice** = **The Stage Speaks.** "This happened." (Focus on the **Event**, hiding the **Main Role**).
 
@@ -845,7 +845,7 @@ This is the difference between **Accountability** and **Objectivity**.
 - **Active:** "I broke the vase." (I admit it. I am the **Main Role**).
 - **Passive:** "The vase was broken." (The vase is the **Main Role** now. Who broke it? Maybe the wind. Maybe a ghost. Maybe me, but I'm hiding it).
 
-> **🚀 Key Insight:**
+> ** Key Insight:**
 > In English, **Passive Voice** is not "weak." It is **strategic**. It allows the speaker to **remove the Main Role** from the stage entirely. This is why governments, scientists, and corporations love it.
 
 ---
@@ -859,18 +859,18 @@ How do you decide which voice to use? It depends on the **Genre of the Opera**.
 - **Goal:** To show **Agency**, **Emotion**, and **Accountability**.
 - **Why:** People want to know **WHO** is acting.
 - **Example:**
-    *   ❌ *Passive:* "The decision was made to fire the manager." (Who made it? The board? The CEO? It's vague).
-    *   ✅ *Active:* "**The CEO** decided to fire the manager." (Clear responsibility. The CEO is the Star).
+    *    *Passive:* "The decision was made to fire the manager." (Who made it? The board? The CEO? It's vague).
+    *    *Active:* "**The CEO** decided to fire the manager." (Clear responsibility. The CEO is the Star).
 
 ### Scenario B: The "Objective" Stage (Passive Voice) 
 - **Context:** Scientific Papers, News Reports, Legal Documents, Official Announcements.
 - **Goal:** To be **Objective**, **Impersonal**, and **Fact-Focused**.
 - **Why:** The "Doer" is irrelevant, unknown, or too controversial to name. The **Event** is the Star.
 - **Example:**
-    *   ❌ *Active:* "We tested the drug on 500 patients." (Who is "we"? It sounds subjective).
-    *   ✅ *Passive:* "The drug **was tested** on 500 patients." (Focus is on the **Drug** and the **Data**, not the scientists).
+    *    *Active:* "We tested the drug on 500 patients." (Who is "we"? It sounds subjective).
+    *    *Passive:* "The drug **was tested** on 500 patients." (Focus is on the **Drug** and the **Data**, not the scientists).
 
-> **💡 The "Bureaucratic Shield":**
+> ** The "Bureaucratic Shield":**
 > Politicians often use Passive Voice to avoid blame.
 > *   *Active:* "I made a mistake." (Blame accepted).
 > *   *Passive:* "Mistakes **were made**." (No one is named. The mistake just "happened").
@@ -966,7 +966,7 @@ In the previous chapters, we mastered **Time** (When?), **Logic** (Why?), and **
 
 In English, the **Mood** of a verb is not just a grammatical form; it is a **Reality Filter**. It tells the audience: *"Am I showing you a documentary (Fact), or am I acting out a script (Story)?"*
 
-> **💡 Director's Insight:**
+> ** Director's Insight:**
 > * **Indicative Mood** = **The Documentary.** (Fact. Real. Verifiable.)
 > * **Imperative Mood** = **The Command.** (My Will. My Desire. My Order.)
 > * **Subjunctive Mood** = **The Parallel Universe.** (Hypothetical. Impossible. Dreamed.)
@@ -983,7 +983,7 @@ In English, the **Mood** of a verb is not just a grammatical form; it is a **Rea
 | **WILL**     | **Imperative**  | **Subjective Command.**<br>My desire, my order, my emotion. It is not a fact yet; it is an attempt to *make* it a fact.       | **The Director Yelling**<br>"Do it now!"    | ***Be** quiet!*<br>*Please **open** the door.*        |
 | **DREAM**    | **Subjunctive** | **Subjective Fiction.**<br>It did **not** happen. It is **impossible** or **purely hypothetical**. It lives only in the mind. | **The Sci-Fi Script**<br>"What if...?"      | *If I **were** a bird...*<br>*I suggest he **go**.*   |
 
-> **🚀 The Core Insight:**
+> ** The Core Insight:**
 > The **Subjunctive Mood** is the most powerful tool in English because it allows you to talk about things that **do not exist**.
 > * **Fact:** "I am not a bird." (Indicative)
 > * **Story:** "If I **were** a bird..." (Subjunctive)
@@ -1011,7 +1011,7 @@ This "Backshift" is the **grammatical flag** that says: *"This is a Story, not a
 | **PAST** | *I **had** money.* (Fact) | *If I **had had** money...* (Regret) | Use **Past Perfect** to show "Not Real Past". |
 | **FUTURE** | *I **will** go.* (Plan) | *If I **should** go...* (Unlikely) | Use **Should/Were to** to show "Unlikely". |
 
-> **💡 The "Recycle Bin" Analogy:**
+> ** The "Recycle Bin" Analogy:**
 > The Subjunctive Mood puts the sentence in the **"Recycle Bin"** of reality.
 > *   *Real:* "I **was** you." (Impossible fact).
 > *   *Unreal:* "If I **were** you..." (I am in the fiction folder).
